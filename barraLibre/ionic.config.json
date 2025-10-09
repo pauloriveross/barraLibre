@@ -1,0 +1,7 @@
+{
+  "name": "barraLibre",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
