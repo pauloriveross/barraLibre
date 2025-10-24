@@ -15,7 +15,13 @@
 }
 
 
-
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(212, 212, 212);
+    font-size: 20px;
+}
 
 .boxImg {
     //border:solid green;
@@ -27,7 +33,7 @@
 
 
 .boxInput {
-    margin: 10px 30px 20px 30px; //TOP-RIGHT-BOTTOM-LEFT
+    margin: 10px 50px 20px 50px; //TOP-RIGHT-BOTTOM-LEFT
     padding-left: 20px;
     padding-right: 20px;
     border-radius: 8px;
